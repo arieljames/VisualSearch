@@ -1,0 +1,203 @@
+Data File: Feature vs. Conjunction Search Experiment.
+
+Subject # 1
+
+Raw Data:  (Target = red T)
+
+Cond.	Block	Trial	Target	red L	green T	Correct	RT
+
+feat	1	1	1	0	16	1	0.5607
+feat	1	2	1	0	12	1	0.3675
+feat	1	3	1	0	2	1	0.4393
+feat	1	4	1	0	6	1	0.4314
+feat	1	5	0	0	4	1	0.4162
+feat	1	6	0	0	8	1	0.4555
+feat	1	7	1	0	4	1	0.4877
+feat	1	8	0	0	12	1	0.4079
+feat	1	9	0	0	6	1	0.4215
+feat	1	10	1	0	2	1	0.5394
+feat	1	11	1	0	8	1	0.5279
+feat	1	12	1	0	8	1	0.4155
+feat	1	13	0	0	2	1	0.5525
+feat	1	14	0	0	16	1	0.5743
+feat	1	15	1	0	4	1	0.5202
+feat	1	16	0	0	2	1	0.4882
+feat	1	17	0	0	4	1	0.4957
+feat	1	18	1	0	6	1	0.4392
+feat	1	19	0	0	12	1	0.5352
+feat	1	20	0	0	8	1	0.5754
+feat	1	21	0	0	16	1	0.4149
+feat	1	22	1	0	12	1	0.3911
+feat	1	23	1	0	16	1	0.4303
+feat	1	24	0	0	6	1	0.4711
+feat	2	1	0	4	0	1	0.6023
+feat	2	2	1	6	0	1	0.7433
+feat	2	3	1	12	0	1	0.8225
+feat	2	4	0	12	0	1	0.6523
+feat	2	5	0	8	0	1	0.5998
+feat	2	6	1	2	0	1	0.6075
+feat	2	7	0	2	0	1	0.4802
+feat	2	8	0	16	0	1	1.0704
+feat	2	9	1	16	0	1	0.7185
+feat	2	10	1	4	0	1	0.9518
+feat	2	11	0	8	0	1	0.6159
+feat	2	12	0	4	0	1	0.5281
+feat	2	13	1	8	0	1	0.5986
+feat	2	14	0	6	0	1	0.6957
+feat	2	15	1	4	0	1	0.5443
+feat	2	16	1	12	0	1	0.5506
+feat	2	17	1	8	0	1	0.5842
+feat	2	18	1	2	0	1	0.5915
+feat	2	19	1	6	0	1	0.5036
+feat	2	20	0	16	0	1	1.0311
+feat	2	21	0	2	0	1	0.5591
+feat	2	22	0	6	0	1	0.9913
+feat	2	23	1	16	0	1	0.6057
+feat	2	24	0	12	0	1	0.8639
+conj	3	1	1	6	6	1	1.1173
+conj	3	2	1	1	1	1	0.7514
+conj	3	3	1	1	1	1	0.4799
+conj	3	4	1	8	8	0
+conj	3	5	1	8	8	1	1.0254
+conj	3	6	1	2	2	1	0.7121
+conj	3	7	1	4	4	1	0.7433
+conj	3	8	0	2	2	1	0.7520
+conj	3	9	1	2	2	1	0.8797
+conj	3	10	1	6	6	1	0.5497
+conj	3	11	1	4	4	1	0.6396
+conj	3	12	0	2	2	1	0.8155
+conj	3	13	1	3	3	1	0.7913
+conj	3	14	1	3	3	1	0.5990
+conj	3	15	0	6	6	1	1.4478
+conj	3	16	0	8	8	1	1.1737
+conj	3	17	0	1	1	1	0.6335
+conj	3	18	0	4	4	1	0.6231
+conj	3	19	0	6	6	1	0.7992
+conj	3	20	0	3	3	1	0.6232
+conj	3	21	0	1	1	1	0.5198
+conj	3	22	0	4	4	1	0.5669
+conj	3	23	0	3	3	1	0.5921
+conj	3	24	0	8	8	1	0.9017
+conj	4	1	0	1	1	1	0.6187
+conj	4	2	1	2	2	1	0.8878
+conj	4	3	0	6	6	1	0.9827
+conj	4	4	1	4	4	1	0.7515
+conj	4	5	1	2	2	1	0.5041
+conj	4	6	1	4	4	1	0.8551
+conj	4	7	0	3	3	1	0.8721
+conj	4	8	0	6	6	1	0.9026
+conj	4	9	1	1	1	1	0.5911
+conj	4	10	0	4	4	1	0.5909
+conj	4	11	0	8	8	1	0.8453
+conj	4	12	1	1	1	1	0.5276
+conj	4	13	1	3	3	1	0.8159
+conj	4	14	0	4	4	1	0.6873
+conj	4	15	1	6	6	1	0.6537
+conj	4	16	0	3	3	1	0.5916
+conj	4	17	0	2	2	1	0.6562
+conj	4	18	0	8	8	1	1.5578
+conj	4	19	1	8	8	0
+conj	4	20	1	6	6	1	1.3497
+conj	4	21	0	2	2	1	0.5915
+conj	4	22	1	8	8	1	0.5821
+conj	4	23	0	1	1	1	0.4956
+conj	4	24	1	3	3	1	0.8156
+
+
+* * * * * Summary by Condition * * * * *
+
+Feature Search Condition
+
+Average over both distractors (target = red T):
+Response Times:
+Num        	Target Absent		Target Present
+Distractors	Mean	SD	Mean	SD
+2	0.5200	0.0360	0.5444	0.0657
+4	0.5106	0.0668	0.6260	0.1892
+6	0.6449	0.2251	0.5294	0.1267
+8	0.5616	0.0630	0.5315	0.0720
+12	0.6148	0.1678	0.5329	0.1814
+16	0.7727	0.2840	0.5788	0.1032
+
+Accuracy:
+Num        	Target Absent	Target Present
+Distractors	Num Correct  	Num Correct
+2	4 of 4	4 of 4
+4	4 of 4	4 of 4
+6	4 of 4	4 of 4
+8	4 of 4	4 of 4
+12	4 of 4	4 of 4
+16	4 of 4	4 of 4
+Target Present Slope = -0.00049 sec/distractor; Intercept = 0.56113
+Target Absent Slope = 0.01609 sec/distractor; Intercept = 0.47534
+
+Distractor red L only (target = red T):
+Response Times:
+Num        	Target Absent		Target Present
+Distractors	Mean	SD	Mean	SD
+2	0.5196	0.0395	0.5995	0.0080
+4	0.5652	0.0371	0.7481	0.2037
+6	0.8435	0.1478	0.6235	0.1199
+8	0.6078	0.0081	0.5914	0.0072
+12	0.7581	0.1058	0.6866	0.1360
+16	1.0507	0.0196	0.6621	0.0564
+
+Accuracy:
+Num        	Target Absent	Target Present
+Distractors	Num Correct  	Num Correct
+2	2 of 2	2 of 2
+4	2 of 2	2 of 2
+6	2 of 2	2 of 2
+8	2 of 2	2 of 2
+12	2 of 2	2 of 2
+16	2 of 2	2 of 2
+Target Present Slope = 0.00152 sec/distractor; Intercept = 0.63969
+Target Absent Slope = 0.03215 sec/distractor; Intercept = 0.46693
+
+Distractor green T only (target = red T):
+Response Times:
+Num        	Target Absent		Target Present
+Distractors	Mean	SD	Mean	SD
+2	0.5203	0.0322	0.4893	0.0501
+4	0.4560	0.0397	0.5039	0.0162
+6	0.4463	0.0248	0.4353	0.0039
+8	0.5154	0.0600	0.4717	0.0562
+12	0.4715	0.0636	0.3793	0.0118
+16	0.4946	0.0797	0.4955	0.0652
+
+Accuracy:
+Num        	Target Absent	Target Present
+Distractors	Num Correct  	Num Correct
+2	2 of 2	2 of 2
+4	2 of 2	2 of 2
+6	2 of 2	2 of 2
+8	2 of 2	2 of 2
+12	2 of 2	2 of 2
+16	2 of 2	2 of 2
+Target Present Slope = -0.00251 sec/distractor; Intercept = 0.48258
+Target Absent Slope = 0.00004 sec/distractor; Intercept = 0.48375
+
+Conjunction Search Condition (target = red T):
+
+Response Times:
+Num        	Target Absent		Target Present
+Distractors	Mean	SD	Mean	SD
+2	0.5669	0.0600	0.5875	0.1025
+4	0.7038	0.0861	0.7459	0.1562
+6	0.6698	0.1175	0.7554	0.0909
+8	0.6171	0.0452	0.7474	0.0762
+12	1.0330	0.2481	0.9176	0.3285
+16	1.1196	0.2818	1.0270	0.2964
+
+Accuracy:
+Num        	Target Absent	Target Present
+Distractors	Num Correct  	Num Correct
+2	4 of 4	4 of 4
+4	4 of 4	4 of 4
+6	4 of 4	4 of 4
+8	4 of 4	4 of 4
+12	4 of 4	4 of 4
+16	4 of 4	2 of 4
+Target Present Slope = 0.01868 sec/distractor; Intercept = 0.61975
+Target Absent Slope = 0.04068 sec/distractor; Intercept = 0.45957
+
