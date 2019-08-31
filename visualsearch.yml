@@ -1,0 +1,7 @@
+name: visualsearch
+channels:
+  - cogsci
+  - defaults
+dependencies:
+  - pygame
+  - python=2.7
